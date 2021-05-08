@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food List App</string>
+    <string name="food_menu">Menu Makanan Nge-trend</string>
+    <string name="food_picture">Food Picture</string>
+    <string name="switch_mode">Switch mode</string>
+    <string name="deviko_kelvin_2019_all_rights_reserved_build_1_0_10212019_0343">© Deviko Kelvin 2021 | All rights reserved\nAlpha Build 0.2.37.030821–1430</string>
+    <string name="icon_app">icon_app</string>
+    <string name="about">About App</string>
+    <string name="creator_s_picture">Creator\'s Picture</string>
+    <string name="messages">This app was created and built by\n💻</string>
+    <string name="samuel_deviko_kelvin_setiawan">Samuel Deviko Kelvin Setiawan</string>
+    <string name="vycrosver_live_com">vycrosver@live.com</string>
+</resources>
